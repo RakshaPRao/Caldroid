@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Caldroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_easy">activity_easy</string>
+    <string name="title_activity_qq1">qq1</string>
+    <string name="title_activity_final1">final1</string>
+    <string name="title_activity_hard1">hard1</string>
+    <string name="title_activity_med1">med1</string>
+    <string name="title_activity_menu1">menu1</string>
+
+</resources>
